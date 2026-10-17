@@ -38,3 +38,5 @@ npm run build    # production build -> dist/
 ## License
 
 MIT
+
+Another [Mal Gordon](https://malgordon.com/) creation
